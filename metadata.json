@@ -1,0 +1,5 @@
+{
+  "name": "Best AI Photo Studio Repair",
+  "description": "An advanced AI-powered photo studio to generate, edit, restore, and analyze images using Google's Gemini and Imagen models. Create stunning visuals from text, repair damaged photos, apply artistic edits, and gain insights from your images.",
+  "requestFramePermissions": []
+}
